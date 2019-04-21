@@ -1,4 +1,4 @@
 [[redirects]]
     from = "/groupe*"
-    to = "https://pi6i6m5d1g.execute-api.eu-central-1.amazonaws.com/prod/?year=1&group=:splat"
+    to = "https://229b23db.ngrok.io/?year=1&group=:splat"
     status = 200
