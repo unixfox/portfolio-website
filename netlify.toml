@@ -1,0 +1,4 @@
+[[redirects]]
+    from = "/groupe*.ics"
+    to = "https://pi6i6m5d1g.execute-api.eu-central-1.amazonaws.com/prod/?year=1&group=:splat"
+    status = 200
