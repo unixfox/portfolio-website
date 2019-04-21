@@ -1,4 +1,4 @@
 [[redirects]]
     from = "/groupe*"
     to = "https://229b23db.ngrok.io/?year=1&group=:splat"
-    status = 200
+    status = 302
