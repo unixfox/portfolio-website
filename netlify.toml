@@ -2,3 +2,9 @@
     from = "/groupe*"
     to = "https://cal.emiliendevos.be/?year=1&group=:splat"
     status = 302
+
+[[redirects]]
+    from = "/science/*"
+    to = "https://stats.unixfox.eu/analyses/:splat"
+    status = 200
+    force = true
